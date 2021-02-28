@@ -3,7 +3,7 @@ package com.company.Laboratorium_4.z2;
 import static java.lang.Math.sqrt;
 
 public class punkt {
-    int x1, x2, y1, y2;
+    int x1, y1;
 
     punkt(){
         this.x1 = 0;
